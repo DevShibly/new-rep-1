@@ -1,2 +1,2 @@
 # new-rep-1
-new repository have been created for practice.
+#new repository have been created for practice.
